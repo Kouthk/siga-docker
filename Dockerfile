@@ -9,7 +9,7 @@ ENV TZ=America/Sao_Paulo
 ENV LANG pt_BR.UTF-8
 ENV LANGUAGE pt_BR.UTF-8
 ENV LC_ALL pt_BR.UTF-8
-RUN sh -c "ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone"
+RUN sudo sh -c "ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone"
 
 RUN sudo apk --update --no-cache add busybox-extras tzdata
 #RUN sudo yum -y install telnet
