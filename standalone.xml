@@ -44,18 +44,18 @@
         <property name="siga.recaptcha.key" value="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"/>
         <property name="siga.recaptcha.pwd" value="6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe"/>
 
-        <property name="siga.cabecalho.titulo" value="Justiça Federal"/>
-        <property name="siga.cabecalho.logo" value="/siga/imagens/logo-trf2-38px.png"/>
+        <property name="siga.cabecalho.titulo" value="Prefeitura Municipal de Rondonópolis"/>
+        <property name="siga.cabecalho.logo" value="http://www.rondonopolis.mt.gov.br/static/core/img/brasao_horizontal.2fba89751401.png"/>
 
-        <property name="sigaex.modelos.cabecalho.brasao" value="contextpath/imagens/brasaoColoridoTRF2.png"/>
-        <property name="sigaex.modelos.cabecalho.titulo" value="PODER JUDICIÁRIO"/>
-        <property name="sigaex.modelos.cabecalho.subtitulo" value="JUSTIÇA FEDERAL"/>
+        <property name="sigaex.modelos.cabecalho.brasao" value="http://www.rondonopolis.mt.gov.br/media/paginas/brasao-e-bandeira/bandeira-thumbnail.jpg"/>
+        <property name="sigaex.modelos.cabecalho.titulo" value="PODER MUNICIPAL"/>
+        <property name="sigaex.modelos.cabecalho.subtitulo" value="Prefeitura Municipal de Rondonópolis"/>
 
-        <property name="siga.relat.brasao" value="brasao.png"/>
-        <property name="siga.relat.titulo" value="PODER JUDICIÁRIO"/>
-        <property name="siga.relat.subtitulo" value="JUSTIÇA FEDERAL"/>
+        <property name="siga.relat.brasao" value="http://www.rondonopolis.mt.gov.br/media/paginas/brasao-e-bandeira/bandeira-thumbnail.jpg"/>
+        <property name="siga.relat.titulo" value="PODER MUNICIPAL"/>
+        <property name="siga.relat.subtitulo" value="Prefeitura Municipal de Rondonópolis"/>
 
-        <property name="sigaex.carimbo.texto.superior" value="Justiça Federal"/>
+        <property name="sigaex.carimbo.texto.superior" value="Prefeitura Municipal de Rondonópolis"/>
 
         <property name="sigaex.redis.database" value="1"/>
         <property name="sigaex.redis.master.host" value="redisserver"/>
